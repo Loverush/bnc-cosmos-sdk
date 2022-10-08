@@ -37,7 +37,7 @@ const (
 	DelegateCAoBSalt string = "Delegate"
 	RewardCAoBSalt   string = "Reward"
 
-	MinRewardThreshold int64 = 1e8
+	MinRewardThreshold int64 = 1e7
 )
 
 type CrossStakeAckPackage struct {
